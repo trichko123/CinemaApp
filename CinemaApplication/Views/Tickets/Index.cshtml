@@ -1,0 +1,54 @@
+﻿@model Cinema.Domain.DTO.TicketDto
+
+@{ ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+
+<div class="container">
+    <form asp-action="Index" method="post">
+        @Html.HiddenFor(m => m.Tickets)
+        <input asp-for="Date" type="date" />
+        <input type="submit" value="Filter" class="btn btn-primary" />
+    </form>
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Tickets" asp-action="Create">Add new Ticket</a>
+    </div>
+
+    @for (int i = 0; i < Model.Tickets.Count; i++)
+    {
+        var item = Model.Tickets[i];
+
+        if (i % 3 == 0)
+        {
+@:<div class="row">
+}
+
+
+<div class="col-md-3 m-4">
+    <div class="card" style="width: 18rem; height: 40rem;">
+        <img class="card-img-top" src="@item.MovieImage" style="height: 50%" alt="Image for movie!" />
+
+        <div class="card-body">
+            <h3 class="card-title">@item.MovieName @item.MovieYear</h3>
+            <p class="card-text">@item.MovieGenre</p>
+            <p class="card-text">Start: @item.StartDate</p>
+            <p class="card-text">End: @item.EndDate</p>
+
+            <h6>Price: @item.TicketPrice</h6>
+        </div>
+
+        <div class="card-footer">
+
+            <a asp-action="AddTicketToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+            <a asp-controller="Tickets" asp-action="Edit" asp-route-t="@item.Id" class="btn btn-secondary">Edit</a>
+            <a asp-controller="Tickets" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+
+        </div>
+    </div>
+</div> if (i % 3 == 2)
+{
+@:</div>
+}
+}
+
+</div>

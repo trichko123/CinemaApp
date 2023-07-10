@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.deps.json
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Domain.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Repository.dll
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Repository.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Domain.pdb
+C:\Users\User\Desktop\robert proekti\6 semestar\CinemaApplication\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.CopyComplete
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.deps.json
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Domain.dll
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Repository.dll
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Repository.pdb
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Domain.pdb
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.AssemblyInfo.cs
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.CopyComplete
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\pc\Desktop\CinemaApplication-master\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.deps.json
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Services.pdb
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Domain.dll
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Repository.dll
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Repository.pdb
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\bin\Debug\netcoreapp3.1\Cinema.Domain.pdb
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.AssemblyInfo.cs
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.csproj.CopyComplete
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.dll
+C:\Users\pc\Desktop\CinemaApp\Cinema.Services\obj\Debug\netcoreapp3.1\Cinema.Services.pdb

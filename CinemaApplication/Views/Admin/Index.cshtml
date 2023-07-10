@@ -1,0 +1,37 @@
+﻿
+@model Cinema.Domain.DomainModels.Ticket
+@{
+    ViewData["Title"] = "AdminPage";
+}
+
+<div class="container">
+    <h3>Import users</h3>
+    <form asp-controller="Admin" asp-action="ImportUsers" method="post" enctype="multipart/form-data">
+
+        <div class="form-group w-25">
+            <input type="file" name="file" class="form-control" />
+        </div>
+
+        <hr />
+
+        <button type="submit" class="btn btn-outline-success">Import Excel</button>
+
+    </form>
+
+    <br />
+
+    <div class="row">
+        <h3>Export all tickets</h3>
+        <a class="btn btn-success" asp-controller="Admin" asp-action="ExportAllTickets">Export Tickets</a>
+    </div>
+
+    <br />
+
+    <h3>Export tickets from specific genre</h3>
+    <form asp-action="ExportTicketsFromGenre" method="post">
+        <select asp-for="MovieGenre" asp-items="Html.GetEnumSelectList<Cinema.Domain.DomainModels.Genre>()">
+        </select>
+        <span asp-validation-for="MovieGenre" class="text-danger"></span>
+        <button type="submit" class="btn btn-success">Export Tickets</button>
+    </form>
+</div>
